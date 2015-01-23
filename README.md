@@ -6,6 +6,7 @@ Please preserve sorted order (by first name).
 - Dylan McIntyre https://github.com/dylanmcintyre
 - Ioana Crant https://github.com/ioanacrant
 - Menushka Weeratunga https://github.com/ChaosGodEX
+- Leon Ouyang https://github.com/LeonOuyang
 - Paul Krishnamurthy https://github.com/paulKr
 - Rikin Katyal https://github.com/rikinkatyal
 - Yuri Chernyak https://github.com/yurichernyak
