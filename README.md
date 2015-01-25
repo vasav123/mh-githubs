@@ -3,6 +3,7 @@ Please preserve sorted order (by first name).
 
 - Aaron Taylor https://github.com/ExPHAT
 - Christopher Gregorian https://github.com/csgregorian
+- Dilpreet Chana https://github.com/dilpreetC
 - Dylan McIntyre https://github.com/dylanmcintyre
 - Frank Gu https://github.com/roflwaffl
 - Ioana Crant https://github.com/ioanacrant
