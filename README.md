@@ -6,6 +6,7 @@ Please preserve sorted order (by first name).
 - Dylan McIntyre https://github.com/dylanmcintyre
 - Frank Gu https://github.com/roflwaffl
 - Ioana Crant https://github.com/ioanacrant
+- Jeffrey Zhao https://github.com/descrip
 - Menushka Weeratunga https://github.com/ChaosGodEX
 - Paul Krishnamurthy https://github.com/paulKr
 - Rikin Katyal https://github.com/rikinkatyal
