@@ -10,5 +10,6 @@ Please preserve sorted order (by first name).
 - Menushka Weeratunga https://github.com/ChaosGodEX
 - Paul Krishnamurthy https://github.com/paulKr
 - Rikin Katyal https://github.com/rikinkatyal
+- Yasin Avci https://github.com/Hybridization
 - Yuri Chernyak https://github.com/yurichernyak
 
