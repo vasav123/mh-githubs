@@ -4,6 +4,7 @@ Please preserve sorted order (by first name).
 - Aaron Taylor https://github.com/ExPHAT
 - Christopher Gregorian https://github.com/csgregorian
 - Dylan McIntyre https://github.com/dylanmcintyre
+- Frank Gu https://github.com/roflwaffl
 - Ioana Crant https://github.com/ioanacrant
 - Menushka Weeratunga https://github.com/ChaosGodEX
 - Paul Krishnamurthy https://github.com/paulKr
