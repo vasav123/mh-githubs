@@ -9,6 +9,7 @@ Please preserve sorted order (by first name).
 - Ioana Crant https://github.com/ioanacrant
 - Jeffrey Zhao https://github.com/descrip
 - Menushka Weeratunga https://github.com/ChaosGodEX
+- Leon Ouyang https://github.com/LeonOuyang
 - Paul Krishnamurthy https://github.com/paulKr
 - Rikin Katyal https://github.com/rikinkatyal
 - Yasin Avci https://github.com/Hybridization
