@@ -7,6 +7,7 @@ Please preserve sorted order (by first name).
 - Dilpreet Chana https://github.com/dilpreetC
 - Dylan McIntyre https://github.com/dylanmcintyre
 - Frank Gu https://github.com/roflwaffl
+- Imran Ahmed https://github.com/imranahmed
 - Ioana Crant https://github.com/ioanacrant
 - Jeffrey Zhao https://github.com/descrip
 - Menushka Weeratunga https://github.com/ChaosGodEX
