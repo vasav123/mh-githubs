@@ -10,6 +10,7 @@ Please preserve sorted order (by first name).
 - Frank Gu https://github.com/roflwaffl
 - Ioana Crant https://github.com/ioanacrant
 - Jeffrey Zhao https://github.com/descrip
+- Masoud Harati https://github.com/MasoudH
 - Menushka Weeratunga https://github.com/ChaosGodEX
 - Leon Ouyang https://github.com/LeonOuyang
 - Paul Krishnamurthy https://github.com/paulKr
