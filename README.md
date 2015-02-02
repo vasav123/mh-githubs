@@ -33,3 +33,4 @@ Please preserve sorted order (by first name).
 - Tristhal Parasram https://github.com/Tristhal
 - Shadman Hassan https://github.com/Shadow7599
 - Diana Chang https://github.com/DChang87
+- Albert Zhan https://github.com/albertzhan
