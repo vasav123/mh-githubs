@@ -34,3 +34,4 @@ Please preserve sorted order (by first name).
 - Shadman Hassan https://github.com/Shadow7599
 - Diana Chang https://github.com/DChang87
 - Albert Zhan https://github.com/albertzhan
+- Denis Karch https://github.com/Drag0n0x
