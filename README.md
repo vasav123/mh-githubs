@@ -7,6 +7,7 @@ Please preserve sorted order (by first name).
 - Albert Zhan https://github.com/albertzhan
 - Alex Liu https://github.com/alexliu245
 - Alex Popovic https://github.com/SerbNerd
+- Andras Varga https://github.com/andrassv
 - Aryan Kurniawan https://github.com/AryanKurniawan
 - Ben Cheung https://github.com/MrBenC88
 - Christopher Gregorian https://github.com/csgregorian
