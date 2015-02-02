@@ -32,3 +32,4 @@ Please preserve sorted order (by first name).
 - Abhi Gupta https://github.com/AbhiGupta47
 - Tristhal Parasram https://github.com/Tristhal
 - Shadman Hassan https://github.com/Shadow7599
+- Diana Chang https://github.com/DChang87
