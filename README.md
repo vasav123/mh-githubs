@@ -36,3 +36,4 @@ Please preserve sorted order (by first name).
 - Albert Zhan https://github.com/albertzhan
 - Denis Karch https://github.com/Drag0n0x
 - Alex Liu https://github.com/alexliu245
+- Michael Ala https://github.com/Michaelfonzolo
