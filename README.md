@@ -21,3 +21,4 @@ Please preserve sorted order (by first name).
 - Yasin Avci https://github.com/Hybridization
 - Yuri Chernyak https://github.com/yurichernyak
 - TARA aHMADI https://github.com/starastar
+- Diana Chang https://github.com/DChang87
