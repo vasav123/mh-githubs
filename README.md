@@ -32,7 +32,7 @@ Please preserve sorted order (by first name).
 - Shahir Chowdhury https://github.com/ry622
 - Sid Bedekar https://github.com/darthvadaar
 - Suraj Rampure https://github.com/surajrampure
-- TARA aHMADI https://github.com/starastar
+- Tara Ahmadi https://github.com/starastar
 - Tristhal Parasram https://github.com/Tristhal
 - Yasin Avci https://github.com/Hybridization
 - Yuri Chernyak https://github.com/yurichernyakl
