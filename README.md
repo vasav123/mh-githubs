@@ -28,3 +28,4 @@ Please preserve sorted order (by first name).
 - Aryan Kurniawan https://github.com/AryanKurniawan
 - Himel Mondal https://github.com/G-mel
 - Roman Seviaryn https://github.com/romanumerals
+- Shahir Chowdhury https://github.com/ry622
