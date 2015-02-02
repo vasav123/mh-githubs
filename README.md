@@ -23,3 +23,4 @@ Please preserve sorted order (by first name).
 - TARA aHMADI https://github.com/starastar
 - Diana Chang https://github.com/DChang87
 - Sid Bedekar https://github.com/darthvadaar
+- Johnny Nguyen https://github.com/j-nguyen
