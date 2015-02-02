@@ -9,6 +9,7 @@ Please preserve sorted order (by first name).
 - Dylan McIntyre https://github.com/dylanmcintyre
 - Frank Gu https://github.com/roflwaffl
 - Himel Mondal https://github.com/G-Mel
+- Imran Ahmed https://github.com/imruahmed
 - Ioana Crant https://github.com/ioanacrant
 - Jeffrey Zhao https://github.com/descrip
 - Masoud Harati https://github.com/MasoudH
