@@ -8,6 +8,7 @@ Please preserve sorted order (by first name).
 - Dilpreet Chana https://github.com/dilpreetC
 - Dylan McIntyre https://github.com/dylanmcintyre
 - Frank Gu https://github.com/roflwaffl
+- Himel Mondal https://github.com/G-Mel
 - Ioana Crant https://github.com/ioanacrant
 - Jeffrey Zhao https://github.com/descrip
 - Masoud Harati https://github.com/MasoudH
