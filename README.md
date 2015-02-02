@@ -16,6 +16,7 @@ Please preserve sorted order (by first name).
 - Leon Ouyang https://github.com/LeonOuyang
 - Paul Krishnamurthy https://github.com/paulKr
 - Rikin Katyal https://github.com/rikinkatyal
+- Suraj Rampure https://github.com/surajrampure
 - Yasin Avci https://github.com/Hybridization
 - Yuri Chernyak https://github.com/yurichernyak
 - TARA aHMADI https://github.com/starastar
