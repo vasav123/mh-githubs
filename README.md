@@ -31,3 +31,4 @@ Please preserve sorted order (by first name).
 - Shahir Chowdhury https://github.com/ry622
 - Abhi Gupta https://github.com/AbhiGupta47
 - Tristhal Parasram https://github.com/Tristhal
+- Shadman Hassan https://github.com/Shadow7599
