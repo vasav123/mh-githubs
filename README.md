@@ -37,4 +37,4 @@ Please preserve sorted order (by first name).
 - Tristhal Parasram https://github.com/Tristhal
 - Yasin Avci https://github.com/Hybridization
 - Yuri Chernyak https://github.com/yurichernyakl
-
+- Zihao Zhang https://github.com/zzh8829
