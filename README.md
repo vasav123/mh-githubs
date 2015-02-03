@@ -35,6 +35,7 @@ Please preserve sorted order (by first name).
 - Suraj Rampure https://github.com/surajrampure
 - Tara Ahmadi https://github.com/starastar
 - Tristhal Parasram https://github.com/Tristhal
+- Vasav Shah https://github.com/vasav123
 - Yasin Avci https://github.com/Hybridization
 - Yuri Chernyak https://github.com/yurichernyakl
 - Zihao Zhang https://github.com/zzh8829
